@@ -1,0 +1,20 @@
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\bin\Debug\Lesya 2.exe.config
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\bin\Debug\Lesya 2.exe
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\bin\Debug\Lesya 2.pdb
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\obj\Debug\Lesya 2.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\obj\Debug\Lesya_2.Form1.resources
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\obj\Debug\Lesya_2.Properties.Resources.resources
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\obj\Debug\Lesya 2.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\obj\Debug\Lesya 2.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\obj\Debug\Lesya 2.exe
+C:\Users\Danil\source\repos\Lesya 2\Lesya 2\obj\Debug\Lesya 2.pdb
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\bin\Debug\Lesya 2.exe.config
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\bin\Debug\Lesya 2.exe
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\bin\Debug\Lesya 2.pdb
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\obj\Debug\Lesya 2.csproj.AssemblyReference.cache
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\obj\Debug\Lesya_2.Form1.resources
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\obj\Debug\Lesya_2.Properties.Resources.resources
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\obj\Debug\Lesya 2.csproj.GenerateResource.cache
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\obj\Debug\Lesya 2.csproj.CoreCompileInputs.cache
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\obj\Debug\Lesya 2.exe
+C:\Users\lesya\Downloads\Lesya 2\Lesya 2\Lesya 2\obj\Debug\Lesya 2.pdb
